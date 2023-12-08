@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title  -->
+    <title>Psicoder | Blog</title>
+
+    <!-- Favicon  -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+
+    <!-- Style CSS -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div class="south-load"></div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+
+        <!-- Top Header Area -->
+        <div class="top-header-area">
+            <div class="h-100 d-md-flex justify-content-between align-items-center">
+                <div class="email-address">
+                    <a href="mailto:psicodersc@gmail.com">psicodersc@gmail.com</a>
+                </div>
+                <div class="phone-number d-flex">
+                    <div class="icon">
+                        <img src="img/icons/phone-call.png" alt="">
+                    </div>
+                    <div class="number">
+                        <a href="tel:+57 315 8693133 ">+57 315 8693133 </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Header Area -->
+        <div class="main-header-area" id="stickyHeader">
+            <div class="classy-nav-container breakpoint-off">
+                <!-- Classy Menu -->
+                <nav class="classy-navbar justify-content-between" id="southNav">
+
+                    <!-- Logo -->
+                    <a class="nav-brand" href="registro.php"><img src="img/core-img/logo.png" width="300" height="300" alt=""></a>
+               
+                    <!-- Navbar Toggler -->
+                    <div class="classy-navbar-toggler">
+                        <span class="navbarToggler"><span></span><span></span><span></span></span>
+                    </div>
+
+                    <!-- Menu -->
+                    <div class="classy-menu">
+
+                        <!-- close btn -->
+                        <div class="classycloseIcon">
+                            <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                        </div>
+
+                        <!-- Nav Start -->
+                        <div class="classynav">
+                            <ul>
+                                <li><a href="index.php">Inicio</a></li>
+                             <!--   <li><a href="#">Pages</a>
+                                    <ul class="dropdown">
+                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="about-us.html">About Us</a></li>
+                                        <li><a href="#">Listings</a>
+                                            <ul class="dropdown">
+                                                <li><a href="listings.html">Listings</a></li>
+                                                <li><a href="single-listings.html">Single Listings</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Blog</a>
+                                            <ul class="dropdown">
+                                                <li><a href="blog.html">Blog</a></li>
+                                                <li><a href="single-blog.html">Single Blog</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="elements.html">Elements</a></li>
+                                    </ul>
+                                </li>-->
+                                <li><a href="about-us.php">Sobre Nosotros</a></li>
+                               
+                                <li><a href="blog.php">Blog</a></li>
+                             <!-- <li><a href="#">Mega Menu</a>
+                                    <div class="megamenu">
+                                        <ul class="single-mega cn-col-4">
+                                            <li class="title">Headline 1</li>
+                                            <li><a href="#">Mega Menu Item 1</a></li>
+                                            <li><a href="#">Mega Menu Item 2</a></li>
+                                            <li><a href="#">Mega Menu Item 3</a></li>
+                                            <li><a href="#">Mega Menu Item 4</a></li>
+                                            <li><a href="#">Mega Menu Item 5</a></li>
+                                        </ul>
+                                        <ul class="single-mega cn-col-4">
+                                            <li class="title">Headline 2</li>
+                                            <li><a href="#">Mega Menu Item 1</a></li>
+                                            <li><a href="#">Mega Menu Item 2</a></li>
+                                            <li><a href="#">Mega Menu Item 3</a></li>
+                                            <li><a href="#">Mega Menu Item 4</a></li>
+                                            <li><a href="#">Mega Menu Item 5</a></li>
+                                        </ul>
+                                        <ul class="single-mega cn-col-4">
+                                            <li class="title">Headline 3</li>
+                                            <li><a href="#">Mega Menu Item 1</a></li>
+                                            <li><a href="#">Mega Menu Item 2</a></li>
+                                            <li><a href="#">Mega Menu Item 3</a></li>
+                                            <li><a href="#">Mega Menu Item 4</a></li>
+                                            <li><a href="#">Mega Menu Item 5</a></li>
+                                        </ul>
+                                        <ul class="single-mega cn-col-4">
+                                            <li class="title">Headline 4</li>
+                                            <li><a href="#">Mega Menu Item 1</a></li>
+                                            <li><a href="#">Mega Menu Item 2</a></li>
+                                            <li><a href="#">Mega Menu Item 3</a></li>
+                                            <li><a href="#">Mega Menu Item 4</a></li>
+                                            <li><a href="#">Mega Menu Item 5</a></li>
+                                        </ul>
+                                    </div>
+                                </li>-->
+                                <li><a href="contact.php">Contactanos</a></li>
+                                
+           
+                            </ul>
+
+                          
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcumb Area Start ##### -->
+    <section class="breadcumb-area bg-img" style="background-image: url(img/bg-img/hero1.jpg);">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12">
+                    <div class="breadcumb-content">
+                        <h3 class="breadcumb-title">Blog</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Breadcumb Area End ##### -->
+
+    <!-- ##### Blog Area Start ##### -->
+    <section class="south-blog-area section-padding-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-8">
+                <div class="col-12 col-lg-4">
+                    <div class="blog-sidebar-area">
+
+                        <!-- Search Widget -->
+                        <div class="search-widget-area mb-70">
+                            <form action="#" method="get">
+                                <input type="search" name="search" id="search" placeholder="Search">
+                                <button type="submit"><i class="fa fa-search"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                    <!-- Single Blog Area -->
+                    <div class="single-blog-area mb-50">
+                        <!-- Post Thumbnail -->
+                        <div class="blog-post-thumbnail">
+                            <img src="img/blog-img/blog1.JPG" alt="">
+                        </div>
+                        <!-- Post Content -->
+                        <div class="post-content">
+                            <!-- Date -->
+                            <div class="post-date">
+                                <a href="#">Septiembre 01, 2023</a>
+                            </div>
+                            <!-- Headline -->
+                            <a href="#" class="headline">Gestión del Estrés en la Vida Diaria</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <p>By <a href="#">Sandra Cuellar</a> | en <a href="#">Salud mental</a> 
+                            </div>
+                            <p>En el vertiginoso ritmo de la vida actual, el estrés se ha convertido en un compañero constante para muchos. Este blog está diseñado para proporcionar estrategias efectivas para gestionar y reducir el estrés en tu vida diaria. Desde técnicas de respiración hasta consejos de organización, te guiaremos en el camino hacia una mente tranquila y equilibrada.</p>
+                            <!-- Read More btn -->
+                            <a href="#" class="btn south-btn">Leer mas</a>
+                        </div>
+                    </div>
+                   
+                   <!-- Single Blog Area -->
+                   <div class="single-blog-area mb-50">
+                        <!-- Post Thumbnail -->
+                        <div class="blog-post-thumbnail">
+                            <img src="img/blog-img/blog2.png" alt="">
+                        </div>
+                        <!-- Post Content -->
+                        <div class="post-content">
+                            <!-- Date -->
+                            <div class="post-date">
+                                <a href="#">Septiembre 11, 2023</a>
+                            </div>
+                            <!-- Headline -->
+                            <a href="#" class="headline">Cómo Fomentar la Autoestima en Niños y Adolescentes</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <p>By <a href="#">Sandra Cuellar</a> | en <a href="#">Adolescentes</a> 
+                            </div>
+                            <p>La autoestima es un componente crucial del bienestar emocional y mental, especialmente durante la infancia y la adolescencia. En este blog, exploraremos formas efectivas de fomentar y fortalecer la autoestima en los más jóvenes. Descubrirás actividades, consejos y enfoques que promueven la confianza en sí mismos y les ayudan a enfrentar los desafíos de la vida con una actitud positiva.</p>
+                            <!-- Read More btn -->
+                            <a href="#" class="btn south-btn">Leer mas</a>
+                        </div>
+                    </div>
+                   
+                    <!-- Single Blog Area -->
+                    <div class="single-blog-area mb-50">
+                        <!-- Post Thumbnail -->
+                        <div class="blog-post-thumbnail">
+                            <img src="img/blog-img/blog3.png" alt="">
+                        </div>
+                        <!-- Post Content -->
+                        <div class="post-content">
+                            <!-- Date -->
+                            <div class="post-date">
+                                <a href="#">Septiembre 25, 2023</a>
+                            </div>
+                            <!-- Headline -->
+                            <a href="#" class="headline">Las Claves para una Comunicación Saludable en las Relaciones</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <p>By <a href="#">Sandra Cuellar</a> | en <a href="#">Vida Diaria</a> 
+                            </div>
+                            <p>La comunicación es el fundamento de cualquier relación exitosa, ya sea de pareja, familiar o laboral. Sin embargo, a veces puede ser un desafío expresar nuestras necesidades y emociones de manera efectiva. En este blog, exploraremos técnicas y consejos para mejorar la comunicación en tus relaciones, fomentando la comprensión mutua y el fortalecimiento de los vínculos emocionales.</p>
+                            <!-- Read More btn -->
+                            <a href="#" class="btn south-btn">Leer mas</a>
+                        </div>
+                    </div>
+
+               
+            </div>
+            <div class="col-12 col-lg-4">
+    <div class="section-heading text-left wow fadeInUp" data-wow-delay="250ms">
+        <h2>Enlaces de Interés Externos</h2>
+    </div>
+
+    <div class="featured-links wow fadeInUp" data-wow-delay="350ms">
+        <ol>
+            <li><a href="https://www.ejemplo1.com" target="_blank">Enlace de Interés 1</a></li>
+            <li><a href="https://www.ejemplo2.com" target="_blank">Enlace de Interés 2</a></li>
+            <li><a href="https://www.ejemplo3.com" target="_blank">Enlace de Interés 3</a></li>
+            <li><a href="https://www.ejemplo4.com" target="_blank">Enlace de Interés 4</a></li>
+            <li><a href="https://www.ejemplo5.com" target="_blank">Enlace de Interés 5</a></li>
+            <li><a href="https://www.ejemplo6.com" target="_blank">Enlace de Interés 6</a></li>
+        </ol>
+    </div>
+</div>
+
+           
+        </div>
+    </section>
+    <!-- ##### Blog Area End ##### -->
+
+    <!-- ##### Editor Area End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area section-padding-100-0 bg-img gradient-background-overlay" style="background-image: url(img/bg-img/cta.jpg);">
+        <!-- Main Footer Area -->
+        <div class="main-footer-area">
+            <div class="container">
+                <div class="row">
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-xl-3">
+                        <div class="footer-widget-area mb-100">
+                            <!-- Widget Title -->
+                            <div class="widget-title">
+                                <h6>Sobre Nosotros</h6>
+                            </div>
+
+                            <div class="footer-logo my-4">
+                                <img src="img/core-img/logo.png" alt="">
+                            </div>
+                            <p>Somos un equipo de profesionales  en psicología y derecho de familia, con amplia experiencia en el sector publico y privado, entidades públicas como el intituto colombiano de bienestar familiar- ICBF, Secretaria de educacion, comisaría de familia.  
+</p>
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-xl-3">
+                        <div class="footer-widget-area mb-100">
+                            <!-- Widget Title -->
+                            <div class="widget-title">
+                                <h6>Horas</h6>
+                            </div>
+                            <!-- Office Hours -->
+                            <div class="weekly-office-hours">
+                                <ul>
+                                    <li class="d-flex align-items-center justify-content-between"><span>Lunes - Viernes</span> <span>09 AM - 07 PM</span></li>
+                                    <li class="d-flex align-items-center justify-content-between"><span>Sabado</span> <span>09 AM - 02 PM</span></li>
+                                    <li class="d-flex align-items-center justify-content-between"><span>Domingo</span> <span>Cerrado</span></li>
+                                </ul>
+                            </div>
+                            <!-- Address -->
+                            <div class="address">
+                                <h6><img src="img/icons/phone-call.png" alt=""> +57 315 8693133</h6>
+                                <h6><img src="img/icons/envelope.png" alt="">psicodersc@gmail.com</h6>
+                                <h6><img src="img/icons/location.png" alt=""> Bogota, Colombia</h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-xl-3">
+                        <div class="footer-widget-area mb-100">
+                            <!-- Widget Title -->
+                            <div class="widget-title">
+                                <h6>REDES SOCIALES</h6>
+                            </div>
+                            <div class="address">
+                            <h6>
+  <a href="https://instagram.com/psicodersc?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" rel="noopener noreferrer" style="color: gray; text-decoration: none;">
+    <img src="img/icons/phone-call.png" alt=""> Instagram
+  </a>
+</h6>
+
+                                <h6><img src="img/icons/envelope.png" alt="">Facebook</h6>
+                                <h6><img src="img/icons/location.png" alt="">Youtube</h6>
+                            </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Copywrite Text -->
+        <div class="copywrite-text d-flex align-items-center justify-content-center">
+            <p><!-- Link back to hashetag can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved by Psicoder
+<!-- Link back to hashetag can't be removed. Template is licensed under CC BY 3.0. -->
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- jQuery (Necessary for All JavaScript Plugins) -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Plugins js -->
+    <script src="js/plugins.js"></script>
+    <script src="js/classy-nav.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>
+
+</body>
+
+</html>
